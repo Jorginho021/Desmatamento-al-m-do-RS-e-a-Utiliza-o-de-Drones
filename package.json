@@ -1,0 +1,12 @@
+{
+  "name": "sima-monitoramento-ambiental",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/auth.test.js"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  }
+}
